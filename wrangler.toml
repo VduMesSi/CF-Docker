@@ -1,0 +1,9 @@
+name = "puller2"
+account_id = "f0890874fe9f694f38fdd0845cf04ae7"
+main = "src/index.ts"
+workers_dev = true
+compatibility_date = "2024-06-08"
+
+kv_namespaces = [
+	 { binding = "puller2_CACHE", id = "you kv id" }
+]
