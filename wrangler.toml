@@ -1,4 +1,4 @@
-name = "puller2"
+name = "dryout"
 account_id = "f0890874fe9f694f38fdd0845cf04ae7"
 main = "src/index.ts"
 workers_dev = true
